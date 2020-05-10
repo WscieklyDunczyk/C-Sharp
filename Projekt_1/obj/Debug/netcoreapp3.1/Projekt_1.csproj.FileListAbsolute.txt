@@ -1,0 +1,13 @@
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\bin\Debug\netcoreapp3.1\Projekt_1.exe
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\bin\Debug\netcoreapp3.1\Projekt_1.deps.json
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\bin\Debug\netcoreapp3.1\Projekt_1.runtimeconfig.json
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\bin\Debug\netcoreapp3.1\Projekt_1.runtimeconfig.dev.json
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\bin\Debug\netcoreapp3.1\Projekt_1.dll
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\bin\Debug\netcoreapp3.1\Projekt_1.pdb
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\obj\Debug\netcoreapp3.1\Projekt_1.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\obj\Debug\netcoreapp3.1\Projekt_1.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\obj\Debug\netcoreapp3.1\Projekt_1.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\obj\Debug\netcoreapp3.1\Projekt_1.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\obj\Debug\netcoreapp3.1\Projekt_1.dll
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\obj\Debug\netcoreapp3.1\Projekt_1.pdb
+C:\Users\Sebastian\Desktop\AiBD\Projekt_1\obj\Debug\netcoreapp3.1\Projekt_1.genruntimeconfig.cache
