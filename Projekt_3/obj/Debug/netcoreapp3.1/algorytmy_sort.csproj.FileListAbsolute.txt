@@ -1,0 +1,13 @@
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\bin\Debug\netcoreapp3.1\algorytmy_sort.exe
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\bin\Debug\netcoreapp3.1\algorytmy_sort.deps.json
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\bin\Debug\netcoreapp3.1\algorytmy_sort.runtimeconfig.json
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\bin\Debug\netcoreapp3.1\algorytmy_sort.runtimeconfig.dev.json
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\bin\Debug\netcoreapp3.1\algorytmy_sort.dll
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\bin\Debug\netcoreapp3.1\algorytmy_sort.pdb
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\obj\Debug\netcoreapp3.1\algorytmy_sort.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\obj\Debug\netcoreapp3.1\algorytmy_sort.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\obj\Debug\netcoreapp3.1\algorytmy_sort.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\obj\Debug\netcoreapp3.1\algorytmy_sort.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\obj\Debug\netcoreapp3.1\algorytmy_sort.dll
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\obj\Debug\netcoreapp3.1\algorytmy_sort.pdb
+C:\Users\Sebastian\Desktop\github\C-Sharp\Projekt_3\obj\Debug\netcoreapp3.1\algorytmy_sort.genruntimeconfig.cache
