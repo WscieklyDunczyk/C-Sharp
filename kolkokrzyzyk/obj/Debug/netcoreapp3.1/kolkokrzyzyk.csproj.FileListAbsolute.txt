@@ -1,0 +1,13 @@
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\bin\Debug\netcoreapp3.1\kolkokrzyzyk.exe
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\bin\Debug\netcoreapp3.1\kolkokrzyzyk.deps.json
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\bin\Debug\netcoreapp3.1\kolkokrzyzyk.runtimeconfig.json
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\bin\Debug\netcoreapp3.1\kolkokrzyzyk.runtimeconfig.dev.json
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\bin\Debug\netcoreapp3.1\kolkokrzyzyk.dll
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\bin\Debug\netcoreapp3.1\kolkokrzyzyk.pdb
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\obj\Debug\netcoreapp3.1\kolkokrzyzyk.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\obj\Debug\netcoreapp3.1\kolkokrzyzyk.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\obj\Debug\netcoreapp3.1\kolkokrzyzyk.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\obj\Debug\netcoreapp3.1\kolkokrzyzyk.dll
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\obj\Debug\netcoreapp3.1\kolkokrzyzyk.pdb
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\obj\Debug\netcoreapp3.1\kolkokrzyzyk.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\github\C-Sharp\kolkokrzyzyk\obj\Debug\netcoreapp3.1\kolkokrzyzyk.csproj.CoreCompileInputs.cache
